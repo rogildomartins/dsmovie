@@ -1,6 +1,6 @@
-function Listing(){
+function Listing() {
 
-    return(
+    return (
         <h1>Pagina de listagem</h1>
     );
 }
